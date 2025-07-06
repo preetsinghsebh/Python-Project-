@@ -1,1 +1,1 @@
-# Python-Project-
+This project focuses on analysing Indian Premier League (IPL) data using Python. The goal is to extract meaningful insights, identify patterns, and visualise statistics related to player performance, team strategies, and match outcomes. The project utilises libraries like pandas for data manipulation, matplotlib and seaborn for visualisation, and NumPy for numerical operations. This project helps in understanding IPL dynamics through data-driven approaches.
