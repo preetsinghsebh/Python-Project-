@@ -45,7 +45,7 @@ In this project, we:
 🚀 Getting Started
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/IPLDataProject.gitcd IPLDataProject
+git clone https://github.com/preetsinghsebh/IPLDataProject.gitcd IPLDataProject
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
