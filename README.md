@@ -42,8 +42,6 @@ In this project, we:
 	•	Venue-wise winning patterns
 	•	Toss decision analysis
 
-🚀 Getting Started
-
 🌟 Clone the repository
 https://github.com/preetsinghsebh/Python-Project-.git
 
