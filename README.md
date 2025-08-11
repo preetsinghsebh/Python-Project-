@@ -44,14 +44,8 @@ In this project, we:
 
 🚀 Getting Started
 
-1️⃣ Clone the repository
+🌟 Clone the repository
 https://github.com/preetsinghsebh/Python-Project-.git
-
-2️⃣ Install dependencies
-pip install -r requirements.txt
-
-3️⃣ Open the notebook
-jupyter notebook IPLDataProject.ipynb
 
 📌 Usage
 	1.	Load the datasets in the notebook.
